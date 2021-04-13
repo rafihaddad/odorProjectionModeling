@@ -1,2 +1,2 @@
-# odorProjectionModeling
-odorProjectionModeling
+# ModelingOdorProjection
+ModelingOdorProjection
